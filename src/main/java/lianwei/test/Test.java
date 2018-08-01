@@ -1,7 +1,7 @@
-package com.lulu.test;
+package lianwei.test;
 
 public class Test {
 	public static void main(String[] args) {
-		System.err.println("测试使用");
+		System.err.println(1111);
 	}
 }
